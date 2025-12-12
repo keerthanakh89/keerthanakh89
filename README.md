@@ -1,21 +1,47 @@
-# 💫 About Me:
-## 🌟 About Me  <br>Hey there! I’m Keerthana, a passionate learner and aspiring software developer with a strong interest in Python, DBMS, algorithms, and problem-solving. I enjoy exploring new technologies, and building a solid foundation in coding to face real-world challenges with confidence.<br><br>🌱 Currently Learning  <br>- Python  <br>- DBMS & SQL  <br>- Algorithms & Data Structures <br>👨‍💻 Check out my work here:  <br>**[GitHub Projects](https://github.com/your_username?tab=repositories)**<br><br>📫 Reach me at: **keerthanakh01@gmail.com**<br><br>🤝 What I'm Looking To Collaborate On  <br>- 🔭 Beginner-friendly Python projects  <br>- 🗄️ Database and SQL-based applications  <br>- 🌐 Simple web applications  <br>- 💡 Open-source or student projects  <br><br>😄 Fun Facts  <br>- 🎧 I listen to music while studying or coding  <br>- 🌙 I love learning at night when it’s peaceful  <br>- 😅 I sometimes overthink simple bugs, but I fix them anyway!  <br>
+# Hi there 👋, I'm Keerthana
 
+## 🌟 About Me
+Hey there! I’m Keerthana — a passionate and curious tech enthusiast currently exploring the world of software development. I enjoy learning new technologies, building small projects, and strengthening my problem-solving skills through consistent practice.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_gowd_thi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/keerthanakh/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keerthanakh01@gmail.com) 
+I’m skilled in programming languages like **C, Java, and Python**, and I love working with tools and technologies such as **MySQL, MongoDB, Neo4J, Angular, NodeJS, Git, and GitHub**. I’m also expanding my knowledge in **data science** using **Pandas, NumPy, Matplotlib, and scikit-learn**.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=keerthanakh89&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=keerthanakh89&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=keerthanakh89&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=keerthanakh89&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+I enjoy experimenting with full-stack development and exploring databases. I’m always excited to collaborate on meaningful projects and learn from other developers in the community.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=keerthanakh89&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🌱 Currently Learning
+- Python advanced topics  
+- Data structures & algorithms  
+- Web development frameworks  
 
+---
+
+## 💻 Tech Stack
+**Languages:** C, Java, Python, PHP, JavaScript, HTML5  
+**Frameworks / Tools:** Angular, NodeJS, Anaconda, Apache, Git, GitHub, GitLab  
+**Databases:** MySQL, MongoDB, Neo4J  
+**Data Science:** Pandas, NumPy, Matplotlib, scikit-learn  
+
+---
+
+## 👨‍💻 My Projects
+💻 All of my projects are available on **[GitHub](https://github.com/YOUR_USERNAME?tab=repositories)**
+
+---
+
+## 📊 GitHub Stats
+![Keerthana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+[Instagram](https://www.instagram.com/YOUR_INSTAGRAM) | [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN) | [Email](mailto:keerthanakh01@gmail.com)
+
+---
+
+## 😄 Fun Facts
+- 🎧 I listen to music while studying or coding  
+- 🌙 I love learning late at night  
+- 😅 I sometimes overthink small bugs, but I always fix them  
+- 💡 I enjoy collaborating on small projects and open-source ideas
