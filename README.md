@@ -1,5 +1,5 @@
-# 💫 About Me:
-🌟 About Me<br><br>Hey there! I’m Keerthana, a passionate learner and aspiring software developer with a strong interest in Python, DBMS, algorithms, and problem-solving. I enjoy exploring new technologies, building projects, and applying my skills to real-world problems.<br><br>🌱 Currently Learning<br><br>Advanced Python<br><br>DBMS & SQL<br><br>Algorithms & Data Structures<br><br>👨‍💻 My Work<br>All of my projects are available on GitHub Projects<br><br>📫 Contact Me<br>Email: keerthanakh01@gmail.com<br><br>🤝 Collaboration Interests<br><br>Beginner-friendly Python projects<br><br>Database and SQL-based applications<br><br>Simple web applications<br><br>Open-source or student projects<br><br>😄 Fun Facts<br><br>I enjoy listening to music while coding<br><br>I love learning and coding at night<br><br>I sometimes overthink small bugs, but I always fix them
+
+🌟 About Me<br><br>Hey there! I’m Keerthana, a passionate learner and aspiring software developer with a strong interest in Python, DBMS, algorithms, and problem-solving. I enjoy exploring new technologies, building projects, and applying my skills to real-world problems.<br><br>🌱 Currently Learning<br><br>-Advanced Python<br><br>-DBMS & SQL<br><br>-Algorithms & Data Structures<br><br>👨‍💻 My Work<br><br>All of my projects are available on GitHub Projects<br><br>📫 Contact Me<br><br>Email: keerthanakh01@gmail.com<br><br>🤝 Collaboration Interests<br><br>-Beginner-friendly Python projects<br><br>-Database and SQL-based applications<br><br>-Simple web applications<br><br>-Open-source or student projects<br><br>😄 Fun Facts<br><br>-I enjoy listening to music while coding<br><br>-I love learning and coding at night<br><br>-I sometimes overthink small bugs, but I always fix them
 
 
 ## 🌐 Socials:
@@ -14,9 +14,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=keerthanakh89&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=keerthanakh89&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=keerthanakh89&icon=0&color=0)](https://visitcount.itsvg.in)
