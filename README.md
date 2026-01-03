@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&pause=1000&color=6F9EF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Keerthana+👋;Aspiring+Software+Developer;Python+%7C+DBMS+%7C+DSA;Learning+Every+Day+🚀" />
-</p>
-
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Keerthana%20K%20H&fontSize=42&fontAlignY=35&desc=Aspiring%20Software%20Developer&descAlignY=55" />
 
 ## 🌟 About Me
 
@@ -47,8 +43,8 @@ All of my projects are available on my GitHub repositories.
 ## 🌐 Quick Links
 
 <p align="left">
-  <a href="https://keerthanakh89.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  <a href="https://instagram.com/_gowd_thi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/keerthanakh/" target="_blank">
@@ -57,6 +53,10 @@ All of my projects are available on my GitHub repositories.
 
   <a href="mailto:keerthanakh01@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://keerthanakh89.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
 </p>
 
@@ -100,6 +100,8 @@ All of my projects are available on my GitHub repositories.
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=keerthanakh89&icon=0&color=0)
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=keerthanakh89&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
