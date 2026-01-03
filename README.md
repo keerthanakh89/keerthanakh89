@@ -1,4 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Keerthana%20K%20H&fontSize=42&fontAlignY=35&desc=Aspiring%20Software%20Developer&descAlignY=55" />
+<div align="center">
+
+<h1>✨ Keerthana K H ✨</h1>
+<h3>Aspiring Software Developer</h3>
+
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+Developer;DBMS+%7C+DSA+Learner;Building+Projects;Learning+Every+Day+🚀"/>
+
+</div>
+
+---
 
 ## 🌟 About Me
 
@@ -63,45 +72,22 @@ All of my projects are available on my GitHub repositories.
 ---
 
 ## 💻 Tech Stack
-
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keerthanakh89&show_icons=true&theme=transparent)
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=keerthanakh89&theme=transparent)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keerthanakh89&layout=compact&theme=transparent)
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=keerthanakh89&theme=radical&margin-w=8)
-
----
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=keerthanakh89&label=Profile%20Views&color=0e75b6&style=flat"/>
+## 👀 Profile Views
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/keerthanakh89&title=Profile%20Views&icon=github.svg&icon_color=ffffff&title_bg=1f6feb&count_bg=0d1117"/>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
