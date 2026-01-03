@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/keerthanakh89&title=Profile%20Views&icon=github.svg&icon_color=ffffff&title_bg=1f6feb&count_bg=0d1117"/>
+</p>
+
 <div align="center">
 
 <h1>✨ Keerthana K H ✨</h1>
