@@ -90,12 +90,13 @@ All of my projects are available on my GitHub repositories.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=keerthanakh89&layout=compact&theme=transparent)
 
 ---
+## 🏆 Highlights
 
-## 🏆 GitHub Trophies
+![Repos](https://img.shields.io/badge/Public%20Repos-Active-blue)
+![Commits](https://img.shields.io/badge/Commits-Consistent-success)
+![Learning](https://img.shields.io/badge/Learning-Daily-orange)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=keerthanakh89&theme=gruvbox" />
-</p>
+
 
 
 ## 👀 Profile Views
