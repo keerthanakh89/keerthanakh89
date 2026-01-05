@@ -93,9 +93,10 @@ All of my projects are available on my GitHub repositories.
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=keerthanakh89&theme=flat&no-frame=true&margin-w=8)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=keerthanakh89&theme=gruvbox" />
+</p>
 
----
 
 ## 👀 Profile Views
 
